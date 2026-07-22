@@ -1,3 +1,43 @@
-💻 **NLP Profession Detection on Twitter**
+# 🤖 Profession Detection from Tweets Using BERT
+## Overview
 
-The objective of this exercise is to apply exploratory text data analysis and supervised machine learning techniques to real-world social media data. Using the ProfNER Task 1 dataset, I built a binary classifier that determines whether a tweet mentions at least one profession (label 1) or no profession (label 0). The task aims to identify occupation-related content on Twitter to support the analysis of which professions may have been most affected during the COVID-19 pandemic.
+This repository contains a **Natural Language Processing (NLP)** project that fine-tunes a **BERT-based transformer model** to automatically identify whether a tweet mentions a profession.
+
+The project covers the complete machine learning workflow, including data exploration, text preprocessing, tokenization, model fine-tuning, evaluation, and prediction generation using the **PROFNER** dataset.
+
+## 🚀 Features
+
+- Exploratory Data Analysis (EDA)
+- Text preprocessing and cleaning
+- Tokenization with Hugging Face Transformers
+- Fine-tuning a pre-trained BERT model
+- Model evaluation using standard classification metrics
+- Generation of predictions for unseen tweets
+- Comparison with alternative transformer models
+
+## 🛠️ Technologies
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- NLTK
+- Scikit-learn
+- Hugging Face Transformers
+- PyTorch
+- Datasets
+- Jupyter Notebook
+
+## 📊 Evaluation
+
+The model is evaluated using several classification metrics, including:
+
+- Accuracy
+- Precision
+- Recall
+- F1-score
+- Confusion Matrix
+
+## 📂 Dataset
+
+The project uses the **PROFNER** dataset, a benchmark dataset designed for profession detection in Spanish tweets.
