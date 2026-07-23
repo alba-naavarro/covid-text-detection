@@ -19,7 +19,7 @@ The project covers the complete NLP workflow, from exploratory data analysis and
 
 ## Dataset
 The project uses the [**PROFNER**](https://huggingface.co/datasets/luisgasco/profner_classification_master) dataset, a benchmark dataset designed for profession detection in Spanish tweets.
-```
+
 ---
 
 ## Exploratory Data Analysis
