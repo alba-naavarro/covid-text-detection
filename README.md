@@ -15,14 +15,6 @@ The project covers the complete machine learning workflow, including data explor
 - Generation of predictions for unseen tweets
 - Comparison with alternative transformer models
 
-## ⚙️ Installation
-
-Install the required dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
 ## 🛠️ Technologies
 
 - Python
@@ -49,3 +41,12 @@ The model is evaluated using several classification metrics, including:
 ## 📂 Dataset
 
 The project uses the **PROFNER** dataset, a benchmark dataset designed for profession detection in Spanish tweets.
+
+
+## ⚙️ Installation
+
+Install the required dependencies:
+
+```bash
+pip install -r requirements.txt
+```
