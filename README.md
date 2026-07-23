@@ -1,4 +1,4 @@
-# 📱Profession Mention Detection in Spanish Tweets using BERT
+# 📲 Profession Mention Detection in Spanish Tweets using BERT
 
 A Natural Language Processing (NLP) project that fine-tunes a transformer-based language model to automatically detect whether a Spanish tweet contains a mention of a profession. The project includes exploratory text analysis, data preprocessing, model training, and evaluation using standard classification metrics.
 
