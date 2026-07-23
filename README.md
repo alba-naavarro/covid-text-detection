@@ -40,7 +40,7 @@ The model is evaluated using several classification metrics, including:
 
 ## 📂 Dataset
 
-The project uses the **PROFNER** dataset, a benchmark dataset designed for profession detection in Spanish tweets.
+The project uses the [**PROFNER**](https://huggingface.co/datasets/luisgasco/profner_classification_master) dataset, a benchmark dataset designed for profession detection in Spanish tweets.
 
 
 ## ⚙️ Installation
