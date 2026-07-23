@@ -15,6 +15,14 @@ The project covers the complete machine learning workflow, including data explor
 - Generation of predictions for unseen tweets
 - Comparison with alternative transformer models
 
+## ⚙️ Installation
+
+Install the required dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
 ## 🛠️ Technologies
 
 - Python
